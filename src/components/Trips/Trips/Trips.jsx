@@ -21,7 +21,7 @@ const trips = [
 		month: 'март',
 		price: '110.000',
 		transport: 'на самолете',
-		people: 10,
+		people: 0,
 		image: tripImage_2
 	},
 	{
