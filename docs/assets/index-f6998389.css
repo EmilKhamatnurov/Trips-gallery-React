@@ -1,0 +1,186 @@
+.container {
+	margin: 0 auto;
+	max-width: 1150px
+}
+
+body,
+html {
+	padding: 110px 30px;
+	background-color: #fffef4;
+	font-family: Arimo, sans-serif;
+	box-sizing: border-box
+}
+
+.page-title {
+	margin-bottom: 33px;
+	color: #181818;
+	font-size: 80px;
+	font-weight: 400;
+	line-height: 93.523%;
+	letter-spacing: -3.2px
+}
+
+.card {
+	height: 536px;
+	padding: 40px;
+	margin-bottom: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	color: #181818
+}
+
+.label {
+	padding: 15px 20px;
+	vertical-align: middle;
+	display: inline;
+	border-radius: 100px;
+	font-size: 16px;
+	line-height: 16px;
+	letter-spacing: -.64px;
+	background: #FFF59D
+}
+
+.card__info {
+	color: #fffef4;
+	font-size: 45px;
+	font-weight: 400;
+	line-height: 93.523%;
+	letter-spacing: -1.8px
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section {
+	display: block
+}
+
+*[hidden] {
+	display: none
+}
+
+body {
+	line-height: 1
+}
+
+menu,
+ol,
+ul {
+	list-style: none
+}
+
+blockquote,
+q {
+	quotes: none
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+	content: none
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
