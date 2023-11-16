@@ -9,6 +9,7 @@ function App() {
       <Container>
         <Heading
           text = "Галерея путешествий"/>
+        <Gallery/>
       </Container>
     </>
   )
